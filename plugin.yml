@@ -1,0 +1,9 @@
+name: PermissionManager
+author: alvin0319
+main: PermissionManager\PermissionManager
+version: 1.0.0
+api: 3.0.0
+
+commands:
+  su:
+    description: 관리자임을 인증합니다.
